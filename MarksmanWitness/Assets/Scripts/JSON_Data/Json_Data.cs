@@ -36,6 +36,9 @@ public class Source
     public string id_orig_h;            // source ip
     public string id_resp_h;            // dest ip
 
+    public string id_orig_p;            // source port
+    public string id_resp_p;            // dest ip
+
     public string service;      // dns, dhcp, etc.
     public string proto;        // udp, tcp, so on
 

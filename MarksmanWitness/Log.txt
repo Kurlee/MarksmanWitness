@@ -553,3 +553,2620 @@ You probably need to assign the targetpos variable of the Automated_Camera scrip
 UnityEngine.Transform.get_position () (at C:/buildslave/unity/build/artifacts/generated/common/runtime/TransformBindings.gen.cs:27)
 Automated_Camera.Update () (at Assets/Scripts/Player/Automated_Camera.cs:53)
 
+Exception
+IndexOutOfRangeException: Array index is out of range.
+IPGroupManager.SetGroupColor (.IPGroup groupToColor) (at Assets/Scripts/IPGroups/IPGroupManager.cs:294)
+IPGroupManager.MakeNewGroup (Int32 ipToCheck, Int32 groupIPFirstThree) (at Assets/Scripts/IPGroups/IPGroupManager.cs:202)
+IPGroupManager.CheckGroups (Int32 ipToCheck) (at Assets/Scripts/IPGroups/IPGroupManager.cs:177)
+DeviceManager.NewComputer (.Source jsonSourceData) (at Assets/Scripts/Management/DeviceManager.cs:127)
+DeviceManager.CheckConnection (.Source source) (at Assets/Scripts/Management/DeviceManager.cs:182)
+DeviceManager.NewComputer (.Source jsonSourceData) (at Assets/Scripts/Management/DeviceManager.cs:124)
+DeviceManager.CheckIp (.Source jsonSourceData) (at Assets/Scripts/Management/DeviceManager.cs:94)
+ConnectionController.CheckPacketbeatData (Int32 sourceIP, Int32 destIP, System.String transport) (at Assets/Scripts/NetflowData/ConnectionController.cs:76)
+PacketbeatMonitor+<CheckData>c__Iterator0.MoveNext () (at Assets/Scripts/Monitoring/PacketbeatMonitor.cs:126)
+UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) (at /Users/builduser/buildslave/unity/build/Runtime/Export/Coroutines.cs:17)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+PacketbeatMonitor:CheckRequestData(Packetbeat_Json_Data) (at Assets/Scripts/Monitoring/PacketbeatMonitor.cs:68)
+<MakePostRequest>c__Iterator1`1:MoveNext() (at Assets/Scripts/Monitoring/MonitorObject.cs:341)
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
+Exception
+NullReferenceException: Object reference not set to an instance of an object
+Computer.DisableMe () (at Assets/Scripts/Computer/Computer.cs:325)
+Computer.Update () (at Assets/Scripts/Computer/Computer.cs:161)
+
