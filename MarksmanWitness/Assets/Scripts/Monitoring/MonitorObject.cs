@@ -19,6 +19,8 @@ public class MonitorObject : MonoBehaviour {
     [Tooltip("This text will display any error that we have in the queries")]
     public UnityEngine.UI.Text errorText;
 
+    public UnityEngine.UI.Text alertText;
+
     [Range(0f, 1f)]
     public float frequency = 1f;    // How often we want to make a request, 1 is the highest(most frequent)
     [Header("Index Name In Elasticsearch")]
@@ -104,6 +106,11 @@ public class MonitorObject : MonoBehaviour {
         {
             // Clear the error text
             errorText.text = "";
+        }
+
+        if(alertText != null)
+        {
+            errorText.text="";
         }
 
         // Start loading the assets

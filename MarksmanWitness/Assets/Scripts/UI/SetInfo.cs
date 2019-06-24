@@ -12,6 +12,7 @@ public class SetInfo : MonoBehaviour {
     public Text dest;
     public Text port;
     public Text protocol;
+    public Text alert;
     #endregion
 
 
@@ -50,8 +51,13 @@ public class SetInfo : MonoBehaviour {
 
             source.text = data.id_orig_h;
             dest.text = data.id_resp_h;
-            //port.text = data.id_resp_p.ToString();
+            port.text = data.id_resp_p.ToString();
             protocol.text = data.proto;
+            if (data.alert)
+            {
+                alert.text = data.id_orig_h + " is attacking " + data.id_resp_h +": " + data.alertText;
+            }
+            
         }
         catch
         {           

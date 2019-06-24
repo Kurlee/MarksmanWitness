@@ -42,7 +42,7 @@ public class PlayerClickAction : MonitorObject {
             if (Physics.Raycast(ray, out hitInfo) && hitInfo.collider.CompareTag("Comp"))
             {
                 // Toggle the alert messages
-                hitInfo.collider.gameObject.GetComponent<Computer>().ToggleAlertMessages();
+   //             hitInfo.collider.gameObject.GetComponent<Computer>().ToggleAlertMessages();
                 // Clear the text of the UI elements
                 ClearText();
 

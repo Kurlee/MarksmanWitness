@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.UI;
+using System.Net;
 
 /// <summary>
 /// Author: Ben Hoffman
@@ -66,6 +67,13 @@ public class DeviceManager : MonoBehaviour {
 
         
     }
+    private int IpToInt(string ipAddr)
+    {
+        // Make sure that this address is valid
+        IPAddress ipAddress;
+        // See if this is a valid IP address first
+        return System.BitConverter.ToInt32(IPAddress.Parse(ipAddr).GetAddressBytes(), 0);
+    }
 
     /// <summary>
     /// Checks if we know of this device already. 
@@ -81,17 +89,36 @@ public class DeviceManager : MonoBehaviour {
             // I want to check if there is a connection that I should add
             CheckConnection(jsonSourceData);
 
-            // Add more life to the computer that we saw
-            computersDict[jsonSourceData.sourceIpInt].ResetLifetime();
+            if (jsonSourceData.sourceIpInt == IpToInt("40.97.132.2"))
+            {
+                computersDict[jsonSourceData.sourceIpInt].GetComponentInChildren<MeshRenderer>().material.color = Color.red;
+            }
 
-            if(computersDict.ContainsKey(jsonSourceData.destIpInt))
-                computersDict[jsonSourceData.destIpInt].ResetLifetime();
+//            if (jsonSourceData.alert == true)
+  //          {
+    //            computersDict[jsonSourceData.sourceIpInt].isEvil = true;
+      //          computersDict[jsonSourceData.sourceIpInt].GetComponentInChildren<MeshRenderer>().material.color = Color.red;
+        //    }
+          //  else if (jsonSourceData.alert == false && computersDict[jsonSourceData.sourceIpInt].isEvil == true)
+            //{
+//                computersDict[jsonSourceData.sourceIpInt].GetComponentInChildren<MeshRenderer>().material.color = Color.red;
+  //          }
+    //        else
+      //      {
+        //        computersDict[jsonSourceData.sourceIpInt].GetComponentInChildren<MeshRenderer>().material.color = Color.green;
+          //  }
+            // Add more life to the computer that we saw
+         //   computersDict[jsonSourceData.sourceIpInt].ResetLifetime();
+
+          //  if(computersDict.ContainsKey(jsonSourceData.destIpInt))
+           //     computersDict[jsonSourceData.destIpInt].ResetLifetime();
 
         }
         else
         {
             // If I do NOT have this IP in my dictionary, then make a new computer        
             NewComputer(jsonSourceData);
+
         }
     }
 
@@ -107,6 +134,20 @@ public class DeviceManager : MonoBehaviour {
 
         // Set the DATA on this gameobject to the data from the JSON data
         newDevice.SourceInt = jsonSourceData.sourceIpInt;
+
+        if (jsonSourceData.sourceIpInt == IpToInt("40.97.132.2"))
+        {
+            computersDict[jsonSourceData.sourceIpInt].GetComponentInChildren<MeshRenderer>().material.color = Color.red;
+        }
+        if (jsonSourceData.alert == true)
+        {
+            newDevice.isEvil = true;
+            newDevice.GetComponentInChildren<MeshRenderer>().material.color = Color.red;
+        }
+        else
+        {
+            newDevice.GetComponentInChildren<MeshRenderer>().material.color = Color.green;
+        }
 
         // Set this object as active in the hierachy so that you can actually see it
         newDevice.gameObject.SetActive(true);
@@ -230,10 +271,10 @@ public class DeviceManager : MonoBehaviour {
     /// <returns></returns>
     private IEnumerator CalculateAllColors()
     {
-        for (int i = 0; i < ComputersDict.Count; i++)
+ //       for (int i = 0; i < ComputersDict.Count; i++)
         {
             // Calculate all alerts for each computer 
-            ComputersDict.ElementAt(i).Value.CalculateAllAlerts();
+  //          ComputersDict.ElementAt(i).Value.CalculateAllAlerts();
 
             // Wait for the end of this frame
             yield return null;
@@ -244,10 +285,10 @@ public class DeviceManager : MonoBehaviour {
     {
         // Tell the IP groups as well
 
-        for (int i = 0; i < ComputersDict.Count; i++)
+   //     for (int i = 0; i < ComputersDict.Count; i++)
         {
             // Calculate all alerts for each computer 
-            ComputersDict.ElementAt(i).Value.ToggleAttackType(alertType);
+    //        ComputersDict.ElementAt(i).Value.ToggleAttackType(alertType);
 
             // Wait for the end of this frame
             yield return null;

@@ -78,13 +78,13 @@ public class SnortAlertManager : MonoBehaviour {
         }
         
         // Set the alert to that PC
-        DeviceManager.ComputersDict[ipBeingAttacked].AddAlert(alertType);
+//        DeviceManager.ComputersDict[ipBeingAttacked].AddAlert(alertType);
 
         // Check if that is the most amount of alerts for this alert type
-        if (DeviceManager.ComputersDict[ipBeingAttacked].AlertCount(alertType) > maxAlertCounts[(int)alertType])
+ //       if (DeviceManager.ComputersDict[ipBeingAttacked].AlertCount(alertType) > maxAlertCounts[(int)alertType])
         {
             // Keep track of the highest number alert count we have to calculate the health
-            maxAlertCounts[(int)alertType] = DeviceManager.ComputersDict[ipBeingAttacked].AlertCount(alertType);
+  //          maxAlertCounts[(int)alertType] = DeviceManager.ComputersDict[ipBeingAttacked].AlertCount(alertType);
 
             // Tell all the computers to calculate their new health for this alert type
             DeviceManager.Instance.CalculateColors();           

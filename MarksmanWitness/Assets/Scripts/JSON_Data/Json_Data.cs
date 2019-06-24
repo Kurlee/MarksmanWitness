@@ -44,5 +44,9 @@ public class Source
 
     public int sourceIpInt;     // Bit converted integer for the source IP
     public int destIpInt;       // Bit converted integer for the dest IP
+
+    public bool alert;
+    public string alertText;
+
 }
 
